@@ -1,0 +1,8 @@
+com/gugawag/pdist/ejbs/MensagemDAO.class
+com/gugawag/pdist/model/Usuario.class
+com/gugawag/pdist/ejbs/UsuarioService.class
+com/gugawag/pdist/servlets/MensagemServlet.class
+com/gugawag/pdist/model/Mensagem.class
+com/gugawag/pdist/servlets/UsuarioServlet.class
+com/gugawag/pdist/ejbs/MensagemService.class
+com/gugawag/pdist/ejbs/UsuarioDAO.class
